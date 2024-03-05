@@ -1,6 +1,6 @@
 import React from "react";
-import Sidebar from "../../components/Sidebar/Sidebar";
-import Conversations from "../../components/Sidebar/Conversations";
+import Sidebar from "../../components/sidebar/Sidebar";
+import Conversations from "../../components/sidebar/Conversations";
 import MessageContainer from "../../components/messages/MessageContainer";
 
 
